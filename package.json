@@ -1,0 +1,15 @@
+{
+  "name": "color_space",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "script": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "matrixmath": "^2.2.2"
+  }
+}
